@@ -5,24 +5,12 @@
     "theme": {
       "colors": {
         "main": {
-          "accent": "#920091"
+          "accent": "#920091",
+          "main-color-2": "#c2410c"
         },
         "support": {
-          "brand1": "#d9c314",
-          "brand2": "#ff0008"
-        },
-        "neutral": "#24272B"
-      },
-      "borderRadius": 4
-    },
-        "theme2": {
-      "colors": {
-        "main": {
-          "accent": "#00d7ff"
-        },
-        "support": {
-          "brand1": "#1466d9",
-          "brand2": "#00ffcb"
+          "brand1": "#041E42",
+          "brand2": "#92d5f8"
         },
         "neutral": "#24272B"
       },
