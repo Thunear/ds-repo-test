@@ -14,6 +14,19 @@
         "neutral": "#24272B"
       },
       "borderRadius": 4
+    },
+        "theme2": {
+      "colors": {
+        "main": {
+          "accent": "#00d7ff"
+        },
+        "support": {
+          "brand1": "#1466d9",
+          "brand2": "#00ffcb"
+        },
+        "neutral": "#24272B"
+      },
+      "borderRadius": 4
     }
   }
 }
